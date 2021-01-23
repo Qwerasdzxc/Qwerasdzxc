@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align='center'>
+<a href="https://dev.to/qwerasdzxc"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/luka-petrovic-2308/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.code-dream.com"><img height="30" src="https://lh3.googleusercontent.com/-u4oGxuUv6NA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucns9RcsOrz1XU-TRZLDWbpxyrsOSA/s128-c/photo.jpg"></a>
+</p>
 
-<!--
-**Qwerasdzxc/Qwerasdzxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hello there, my name is Luka Petrović! 👋 💻</h2>
 
-Here are some ideas to get you started:
+<p align="center">Welcome to my Github page. I'm a Software developer based in Belgrade, Serbia. I'm the lead software developer and CEO of <a href="www.code-dream.com">Code Dream</a>, a software solution company dedicated to optimizing in-house processes of different clients. My main technology is Flutter, Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single code base.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align='center'>
+<img width="650" align='center' src="https://github-readme-stats.vercel.app/api?username=qwerasdzxc&show_icons=true&theme=radical">
+</p>
