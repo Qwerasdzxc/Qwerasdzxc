@@ -1,4 +1,5 @@
 <p align='center'>
+  <a href="https://www.reddit.com/user/Qwerasdzxc99"><img height="30" src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png"/></a>&nbsp;&nbsp;
 <a href="https://dev.to/qwerasdzxc"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/luka-petrovic-2308/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.code-dream.com"><img height="30" src="https://lh3.googleusercontent.com/-u4oGxuUv6NA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucns9RcsOrz1XU-TRZLDWbpxyrsOSA/s128-c/photo.jpg"></a>
