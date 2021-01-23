@@ -4,7 +4,7 @@
 <a href="https://www.code-dream.com"><img height="30" src="https://lh3.googleusercontent.com/-u4oGxuUv6NA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucns9RcsOrz1XU-TRZLDWbpxyrsOSA/s128-c/photo.jpg"></a>
 </p>
 
-<h2 align="center">Hello there, my name is Luka Petrović! 👋 💻</h2>
+<h2 align="center">Hello there, my name is Luka Petrović! 💻<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 <p align="center">Welcome to my Github page. I'm a Software developer based in Belgrade, Serbia. I'm the lead software developer and CEO of <a href="www.code-dream.com">Code Dream</a>, a software solution company dedicated to optimizing in-house processes of various clients. My main technology is Flutter, Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single code base.</p>
 
