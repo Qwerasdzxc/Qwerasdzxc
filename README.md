@@ -1,8 +1,8 @@
 <p align='center'>
-  <a href="https://www.reddit.com/user/Qwerasdzxc99"><img height="30" src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png"/></a>&nbsp;&nbsp;
-<a href="mailto:petrovic.luka99@gmail.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/luka-petrovic-2308/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.code-dream.com"><img height="30" src="https://lh3.googleusercontent.com/-u4oGxuUv6NA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucns9RcsOrz1XU-TRZLDWbpxyrsOSA/s128-c/photo.jpg"></a>
+  <a href="https://www.linkedin.com/in/luka-petrovic-2308/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.code-dream.com"><img height="30" src="https://lh3.googleusercontent.com/-u4oGxuUv6NA/AAAAAAAAAAI/AAAAAAAAAAA/AMZuucns9RcsOrz1XU-TRZLDWbpxyrsOSA/s128-c/photo.jpg"></a>&nbsp;&nbsp;
+  <a href="mailto:petrovic.luka99@gmail.com"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"></a>&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/Qwerasdzxc99"><img height="30" src="https://www.redditstatic.com/desktop2x/img/favicon/android-icon-192x192.png"/></a>
 </p>
 
 <h2 align="center">Hello there, my name is Luka Petrović!&nbsp;&nbsp;💻&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
