@@ -10,9 +10,9 @@
 <p align="center">Welcome to my Github page. I'm a Software developer based in Belgrade, Serbia. I'm the lead software developer and CEO of <a href="https://www.code-dream.com">Code Dream</a>, a software solution company dedicated to optimizing in-house processes of various clients. My main technology is Flutter, Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single code base.</p>
 
 ---
-<p align='center'>
-<img width="500" align='center' src="https://github-readme-stats.vercel.app/api?username=qwerasdzxc&show_icons=true&theme=tokyonight">
-  <br><br>
-    <img width="450" align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerasdzxc&layout=compact&theme=tokyonight">
-
-</p>
+<div style='margin:auto'>
+   
+<div style="float:left"> <img width="500" align='center' src="https://github-readme-stats.vercel.app/api?username=qwerasdzxc&show_icons=true&theme=tokyonight"> </div>
+<div style="float:right"> <img width="425" align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerasdzxc&layout=compact&theme=tokyonight"> </div>
+<div style="clear:both;"></div>
+</div>
