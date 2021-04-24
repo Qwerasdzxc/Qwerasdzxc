@@ -11,5 +11,8 @@
 
 ---
 <p align='center'>
-<img width="500" align='center' src="https://github-readme-stats.vercel.app/api?username=qwerasdzxc&show_icons=true&theme=tokyonight">
+<img width="450" align='center' src="https://github-readme-stats.vercel.app/api?username=qwerasdzxc&show_icons=true&theme=tokyonight">
+  <br><br>
+    <img width="450" align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerasdzxc&layout=compact&theme=tokyonight">
+
 </p>
